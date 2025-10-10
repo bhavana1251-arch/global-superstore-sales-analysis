@@ -8,7 +8,6 @@ Excel-based sales &amp; profit analysis + dashboard for Global Superstore
 ![Dashboard Preview](Full_Dashboard.png) 
 ## Contents
 - `Global_Superstore_Analysis_sanitized.xlsx` — final Excel workbook (Raw, Data_Cleaning, Data_Analysis, Dashboard, Report_Insights)  
-- `Global_Superstore_Dashboard.pdf` — read-only dashboard snapshot  
 - `Dashboard_Screenshots/` — images of key visuals  
 - `Report/Executive_Report.docx` — detailed findings & recommendations
 
