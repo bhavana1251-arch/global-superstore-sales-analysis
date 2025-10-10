@@ -29,6 +29,14 @@ Excel-based sales &amp; profit analysis + dashboard for Global Superstore
 3. Dashboard & KPI design (slicers, charts)  
 4. Insight generation with clear recommendations
 
+
+
+## 🧾 **License**
+This project is licensed under the [MIT License](LICENSE).  
+You’re free to view and learn from it.
+
+
+
 ## Contact
 Bhavana Venkatesha Murthy — Business Analyst  
 📧 bhavana.1251@gmail.com
