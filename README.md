@@ -37,7 +37,7 @@ You’re free to view and learn from it.
 
 
 
-## Contact
+## 📬 Contact
 Bhavana Venkatesha Murthy — Business Analyst  
 📧 bhavana.1251@gmail.com
 
