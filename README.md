@@ -10,6 +10,9 @@ Excel-based sales &amp; profit analysis + dashboard for Global Superstore
 - `Global_Superstore_Analysis_sanitized.xlsx` — final Excel workbook (Raw, Data_Cleaning, Data_Analysis, Dashboard, Report_Insights)  
 - `Dashboard_Screenshots/` — images of key visuals  
 - `Report/Executive_Report.docx` — detailed findings & recommendations
+- `Report/Global_Superstore_CaseStudy.pdf` — concise case study summary for recruiters  
+  *(Click “Download Raw File” to view if GitHub preview doesn’t load.)*
+  
 
 ## Key findings (summary)
 - **Total Sales:** ₹12,624,502  
