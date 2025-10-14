@@ -17,8 +17,8 @@ Key business questions addressed:
 - Which product lines have the highest profit vs volume?  
 - What seasonal or trend patterns emerge across markets?
 
-> 💡 *Analyst mindset:*  
-> This project demonstrates how retail datasets can be turned into actionable insights to drive strategy, not just descriptive metrics.
+> 💡 Business Analyst mindset:
+This project demonstrates how operational and sales data can reveal growth opportunities, guide inventory decisions, and translate patterns into profitable strategies.
 
 ---
 
