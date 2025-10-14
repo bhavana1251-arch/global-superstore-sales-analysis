@@ -23,7 +23,7 @@ This project demonstrates how operational and sales data can reveal growth oppor
 ---
 
 ### 📊 Dashboard Preview  
-*(Scaled, centered dashboard for clarity)*  
+  
 
 <p align="center">
   <img src="Full_Dashboard.png" alt="Global Superstore Dashboard" width="75%" />
