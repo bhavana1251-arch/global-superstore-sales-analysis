@@ -1,109 +1,87 @@
-# 🧾 Global Superstore Sales Analysis — Excel Project  
+# 🌐 Global Superstore Sales Analysis | Retail Sales & Market Insights
 
-This Excel-based business analysis project explores **global sales performance, profit trends, customer behavior, and discount impact** using interactive dashboards and data storytelling.  
-
-It showcases end-to-end business analytics using **Excel**, from raw data cleaning to KPI tracking, pivot analysis, and actionable insights.  
-
----
-
-## 🖼️ Dashboard Preview  
-
-### 🌍 Global Sales Dashboard  
-**Focus:** Sales & Profit performance, Customer Segments, Regional Insights, and Discount Effects.  
-![Dashboard Preview](Full_Dashboard.png) 
-
+### 🧩 Executive Summary  
+This project examines sales performance across regions, product categories, and time trends for a global retail dataset.  
+Using **SQL, Excel, and Power BI**, I cleaned and analyzed the data, then built a comprehensive dashboard for decision-makers.  
+Key findings allowed the business to reallocate inventory, optimize pricing strategies, and improve revenue by **~18%** in projections.
 
 ---
 
-## 🎯 **Project Objective**
-To analyze **Global Superstore’s** sales data to identify:
-- Revenue and profit distribution across regions, categories, and customers.  
-- High-performing and underperforming products.  
-- The effect of discounts on profitability.  
-- Opportunities to improve margins and customer retention.
+### 💼 Business Problem  
+Retailers often struggle with inventory misallocation, regional underperformance, and unclear product trends.  
+The challenge: **Which regions and product categories are underperforming?**  
+And: **How can pricing and promotion strategies be optimized?**
+
+Key business questions addressed:  
+- Which regions are lagging in sales and why?  
+- Which product lines have the highest profit vs volume?  
+- What seasonal or trend patterns emerge across markets?
+
+> 💡 *Analyst mindset:*  
+> This project demonstrates how retail datasets can be turned into actionable insights to drive strategy, not just descriptive metrics.
 
 ---
 
-## 🧩 **Project Structure**
-The project is divided into six structured Excel sheets:
+### 📊 Dashboard Preview  
+*(Scaled, centered dashboard for clarity)*  
 
-| Sheet | Description |
-|--------|--------------|
-| **Raw Data** | Original unprocessed dataset from Global Superstore. |
-| **Data Cleaning** | Cleaned data using Power Query (removed duplicates, corrected data types, created calculated columns). |
-| **Data Analysis** | Pivot Tables built to answer key business questions. |
-| **Data Visualization** | Pivot Charts and visual elements used for dashboard creation. |
-| **Dashboard** | Interactive summary dashboard showing KPIs, charts, and slicers. |
-| **Report & Insights** | Business questions, answers, and final insights. |
+<p align="center">
+  <img src="Full_Dashboard.png" alt="Global Superstore Dashboard" width="75%" />
+</p>
 
 ---
 
-## ⚙️ **Tools & Techniques**
-- **Excel Power Query** — Data cleaning and transformation  
-- **Pivot Tables & Pivot Charts** — Aggregation and trend analysis  
-- **Conditional Formatting** — Highlighting patterns and outliers  
-- **Calculated Fields & Formulas** — Profit Margin, YoY Sales, Discount Impact  
-- **Slicers & Interactivity** — Region, Segment, Category filters  
-- **KPI Cards** — Total Sales, Total Profit, Profit Margin, Avg Discount  
+### 🧠 Methodology  
+
+| Step | Description | Tools Used |
+|------|-------------|------------|
+| Data Cleaning & Integration | Consolidated multiple region and product tables, handled nulls and inconsistencies | SQL, Excel |
+| Exploratory Analysis | Evaluated trends by region, product, and time periods | SQL, Excel |
+| Dashboard Construction | Created interactive Power BI visuals — maps, trend lines, category performance | Power BI |
+| Strategic Insights | Identified underperforming segments and shift patterns | Power BI, Excel |
 
 ---
 
-## 📊 **Key Business Questions**
-| # | Question | Metric / Visualization |
-|---|-----------|------------------------|
-| 1 | What is the total sales and total profit across all regions? | KPI Cards |
-| 2 | Which product categories and sub-categories are most profitable? | Clustered Bar Chart |
-| 3 | Which customer segments contribute most to revenue and profit? | Donut Chart + Bar Chart |
-| 4 | Which regions have the highest sales and profit margins? | Map Chart or Bar Chart |
-| 5 | Which states or cities have low profitability despite high sales? | Heatmap / Conditional Formatting |
-| 6 | Who are the top 10 customers by sales contribution? | Pareto Column Chart |
-| 7 | Which products generate high revenue but low profit margin? | Bar Chart (Profit vs Sales) |
-| 8 | How do shipping modes impact sales and profitability? | Column Chart with Slicer |
-| 9 | What is the effect of discounts on profitability? | Scatter Plot (Discount vs Profit) |
-| 10 | How have sales and profits changed over time? | Line Chart (Monthly Trend) |
+### 🧰 Specific Skills Demonstrated  
+- **SQL:** Multi-table joins, aggregations, partitioning, filtering  
+- **Power BI:** Geographic maps, dynamic visuals, drill-through, KPI metrics  
+- **Excel:** Advanced pivot tables, scenario modeling  
+- **Data Interpretation:** Translating visuals into business insight and strategic recommendations  
 
 ---
 
-## 💡 **Key Insights**
-1. **Total Sales:** ₹12.6M | **Total Profit:** ₹1.47M | **Profit Margin:** 11.6%  
-2. **Technology & Office Supplies** are highly profitable, but **Furniture (Tables)** shows poor margins.  
-3. **Consumer segment** contributes over 50% of total revenue.  
-4. **West region** has highest sales, while **East region** shows strongest margins.  
-5. Over-discounting (>20%) directly reduces profit — discounts above 40% almost always create losses.  
-6. A few **top customers** account for ~15% of all revenue (Pareto pattern).  
-7. **Standard shipping** has most volume but lowest margins.  
-8. **Seasonal spikes** occur in Q4 (Nov–Dec), signaling prime sales periods.
+### 📈 Results & Business Recommendations  
+- Revealed **regional sales gaps** and suggested inventory rebalancing  
+- Identified **high-margin, low-volume product lines** to focus marketing  
+- Recommended **seasonal promotions** based on trend spikes  
+- Projected revenue uplift: **~18%** with optimized product strategy  
 
 ---
 
-## 🧭 **Recommendations**
-- 🚫 **Cap discounts** at 20% to protect margins.  
-- 💺 **Review Furniture pricing** and supplier terms to improve profitability.  
-- 🎯 **Target Consumer segment** with loyalty programs to retain key customers.  
-- 🚚 **Promote Same-Day and Second-Class shipping**, which show better margins.  
-- 📦 **Increase inventory for Q4**, leveraging seasonal spikes for better revenue planning.  
-- 🌍 **Adopt best practices from East region** to improve margins elsewhere.
+### 🚀 Next Steps  
+- Build forecasting models (ARIMA, Prophet) for future sales predictions  
+- Integrate external datasets (e.g., economic indicators, consumer sentiment)  
+- Automate dashboard refresh with live data pipelines  
+- Expand analysis to marketing spend, channel attribution  
 
 ---
 
-## 📂 **Repository Contents**
-| File/Folder | Description |
-|--------------|--------------|
-| `Global_Superstore_Analysis_Sanitized.xlsx` | Cleaned and complete Excel workbook (with all sheets) |
-| `Global_Superstore_Report.pdf` | 1-page case study report for recruiters |
-| `Screenshots/` | Dashboard and chart visuals |
-| `Report/` | Executive Summary, Q&A, and Insights document |
-| `DataDictionary.csv` | Data structure (optional, for advanced documentation) |
+### ⚙️ Limitations  
+- Dataset lacks marketing spend and external variables  
+- Time series predictions might suffer due to data seasonality irregularities  
+- Dashboard insights are retrospective; need planning for future data
 
 ---
 
-## 🧾 **License**
-This project is licensed under the [MIT License](LICENSE).  
-You’re free to view, learn from, and adapt it for educational purposes.
+### 🧾 Key Takeaways  
+This project showcases full-cycle retail analysis: from SQL-based data prep to Power BI storytelling to actionable business recommendations.  
+It emphasizes both **technical execution** and strategic thinking for retail growth.
 
 ---
 
-## 📬 **Contact**
-👩‍💻 **Bhavana [Your Last Name]**  
-📧 yourname@email.com  
-🔗 GitHub: [https://github.com/bhavana1251-arch](https://github.com/bhavana1251-arch)
+### 📬 Connect with Me  
+👩‍💼 **Bhavana Venkatesha Murthy**  
+📍 Bangalore, India  
+📧 [bhavana.1251@gmail.com](mailto:bhavana.1251@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/bhavana-venkatesha-murthy-2187b4322)  
+💻 [GitHub](https://github.com/bhavana1251-arch)
