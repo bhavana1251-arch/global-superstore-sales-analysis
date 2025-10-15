@@ -79,6 +79,11 @@ It emphasizes both **technical execution** and strategic thinking for retail gro
 
 ---
 
+### 📂 Dataset  
+This project originally used real customer data for analysis.  
+All personal information has been removed to comply with data privacy and ethical standards.
+
+---
 ### 📬 Connect with Me  
 👩‍💼 **Bhavana Venkatesha Murthy**  
 📍 Bangalore, India  
